@@ -9,7 +9,7 @@ The internship focuses on applying C++ programming concepts through practical, p
 - **Organization:** CodSoft
 - **Domain:** C++ Programming
 - **Internship Type:** Virtual Internship
-- **Duration:** 5 September 2026 – 5 October 2026
+- **Duration:** 10 September 2026 – 10 October 2026
 - **GitHub Repository:** Maintained as a dedicated repository for the internship
 
 ## Completed Tasks
